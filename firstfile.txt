@@ -1,1 +1,2 @@
-Hello-firstLine-made-little-change
+Hello-removed
+Hello then now
