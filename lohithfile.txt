@@ -1,4 +1,5 @@
 Little changes added 2nd time locally on branch
+Little changes added locally on branch
 Little changes added from master on remote
 Hello-removed
 Hello then no
